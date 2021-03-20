@@ -4,7 +4,7 @@ Nesse desafio foi criada uma aplicação para treinar o que aprendemos sob
 
 Essa é uma aplicação funcional onde o principal objetivo é realizar dois processos de migração: de Javascript para Typescript e de Class Components para Function Components.
 
-#Arquivos modificados🚀
+# 🚀Arquivos modificados
 
 - src/components/Food/index.jsx;
 - src/components/Food/styles.js;
